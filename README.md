@@ -6,7 +6,7 @@
 ### Clone the Repository
 ```
 # Clone the repo
-git clone https://github.com/erlanggaard/data_warehouse_modeling_star_schema.git
+git clone https://github.com/erlanggaard/dbt_bq_data_warehouse_modeling_star_schema
 
 cd dbt_playground
 
